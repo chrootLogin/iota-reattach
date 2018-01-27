@@ -1,0 +1,16 @@
+{
+  "name": "iota-reattach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccurl.interface.js": "git+https://github.com/iotaledger/ccurl.interface.js.git",
+    "commander": "^2.13.0",
+    "iota.lib.js": "^0.4.6"
+  }
+}

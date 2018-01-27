@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="myName" value="GPL" />
+    <option name="notice" value="Copyright (c) &amp;#36;today.year. by Simon Erhardt &lt;me@rootlogin.ch&gt;&#10;&#10;This file is part of Iota-Reattach.&#10;&#10;Iota-Reattach is free software: you can redistribute&#10;it and/or modify it under the terms of the GNU General Public&#10;License as published by the Free Software Foundation, either&#10;version 3 of the License, or (at your option) any later version.&#10;&#10;Iota-Reattach is distributed in the hope that it will &#10;be useful, but WITHOUT ANY WARRANTY; without even the implied warranty &#10;of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#10;GNU General Public License for more details.&#10;&#10;You should have received a copy of the GNU General Public License&#10;along with Iota-Reattach.  If not, see &lt;http://www.gnu.org/licenses/&gt;.&#10;&#10;@license GPL-3.0+ &lt;http://spdx.org/licenses/GPL-3.0+&gt;&#10;" />
+  </copyright>
+</component>
