@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Copyright (c) 2018. by Simon Erhardt <me@rootlogin.ch>
  *

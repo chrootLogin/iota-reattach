@@ -5,6 +5,14 @@ A small NodeJS script to reattach and promote IOTA transactions.
 This script is able to automatically reattach and promote transaction. This helps to get a better confirmation rate.
 
 ## Usage
+
+
+```
+$ ./promote.js <transactionHash>
+$ ./promote.js ZHFUXEKMZNODSNQKZHGTPWAHAWKR9DSRCEDRTJVXB9TESYOYZFRLHHMSBWROMAAXKDVIGNZCYDKHA9999
+```
+
+There are further options:
 ```
   Usage: promote [options] <transactionHash>
 
